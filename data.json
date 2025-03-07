@@ -1,0 +1,15 @@
+{
+    "teams": [
+        {
+            "name": "Ciao squad",
+            "weekly_score": 0,
+            "total_score": 0,
+            "code": "MXBIX9",
+            "color": "#6f679a"
+        }
+    ],
+    "admin_code": "8824",
+    "last_reset": null,
+    "history": [],
+    "activities": []
+}
